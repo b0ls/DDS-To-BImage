@@ -1,1 +1,0 @@
-i'd send Program.cs here but holy shit code is so horrible i dont even want to show it. I havent slept whole night and wrote the code. Next version will have Program.cs, with or without polished code. Depends on laziness
